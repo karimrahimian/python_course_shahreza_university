@@ -1,0 +1,8 @@
+Write a program to extend the student's programs:
+1- Add student
+2- Display student
+3- Remove student
+4- Save to file
+5- Load from file
+6- Display unique names
+In this new version please get name and grade of students. Hint : you should use tuple 
